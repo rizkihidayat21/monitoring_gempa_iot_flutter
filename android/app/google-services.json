@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "466936960419",
+    "firebase_url": "https://gempa-6d654-default-rtdb.firebaseio.com",
+    "project_id": "gempa-6d654",
+    "storage_bucket": "gempa-6d654.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466936960419:android:9bfb6f565d8d648fd87616",
+        "android_client_info": {
+          "package_name": "com.autumnleaves.pendeteksigempa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466936960419-ut5dh920pvsp0mebd4nv72ovbskg14j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDFjkSiXYHZPykWudpoLajjiKCUnzTAkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466936960419-ut5dh920pvsp0mebd4nv72ovbskg14j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
